@@ -1,0 +1,57 @@
+<div class="wrapper">
+    <div class="card">
+        <input type="checkbox" id="card4" class="more" aria-hidden="true">
+        <div class="content">
+            <div class="front" style="background-image: url('https://w0.peakpx.com/wallpaper/145/293/HD-wallpaper-sci-fi-black-hole-interstellar-space.jpg')">
+                <div class="inner">
+                    <h2>space beyond physics</h2>
+                    <div class="rating">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <label for="card4" class="button" aria-hidden="true">
+                        Details
+                    </label>
+                </div>
+            </div>
+            <div class="back">
+                <div class="inner">
+                    <div class="info">
+                        <span>10</span>
+                        <div class="icon">
+                            <i class="fas fa-users"></i>
+                            <span>people</span>
+                        </div>
+                    </div>
+                    <div class="info">
+                        <span>1</span>
+                        <div class="icon">
+                            <i class="fas fa-bath"></i>
+                            <span>bath</span>
+                        </div>
+                    </div>
+                    <div class="info">
+                        <span>1</span>
+                        <div class="icon">
+                            <i class="fas fa-bed"></i>
+                            <span>bed</span>
+                        </div>
+                    </div>
+                    <div class="description">
+                        <p>1. These particles move at speeds close to the speed of light and possess energies millions of times greater than those produced by particle accelerators on Earth.</p>
+                        <p>2. Interstellar space is not just an empty void but a dynamic environment filled with energetic particles that continue to puzzle scientists and intrigue space enthusiasts.</p>
+                      <p>3.In regions with strong gravitational forces, like near massive stars or black holes, time dilation occurs according to Einstein's theory of relativity. This means time appears to pass slower compared to less gravitationally influenced areas.</p>
+                    </div>
+                    <div class="location">Anywhere</div>
+                    <div class="price">$50 / night</div>
+                    <label for="card4" class="button return" aria-hidden="true">
+                        <i class="fas fa-arrow-left"></i>
+                    </label>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
